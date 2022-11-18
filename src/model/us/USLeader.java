@@ -5,7 +5,7 @@ import model.Employee;
 public class USLeader extends Employee {
 
 	public USLeader() {
-		super("Lï¿½der Tï¿½cnico Americano");
+		super("Líder Técnico Americano");
 	}
 
 	@Override
